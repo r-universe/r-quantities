@@ -3,3 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "constants"]
+	path = constants
+	url = https://github.com/r-quantities/constants
+	shallow = true
+[submodule "errors"]
+	path = errors
+	url = https://github.com/r-quantities/errors
+	shallow = true
+[submodule "quantities"]
+	path = quantities
+	url = https://github.com/r-quantities/quantities
+	shallow = true
+[submodule "units"]
+	path = units
+	url = https://github.com/r-quantities/units
+	shallow = true
