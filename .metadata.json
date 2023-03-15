@@ -1,6 +1,10 @@
 [
   {
-    "package": "units",
+    "package": "constants",
+    "oncran": true
+  },
+  {
+    "package": "errors",
     "oncran": true
   },
   {
@@ -8,11 +12,7 @@
     "oncran": true
   },
   {
-    "package": "constants",
-    "oncran": true
-  },
-  {
-    "package": "errors",
+    "package": "units",
     "oncran": true
   }
 ]
